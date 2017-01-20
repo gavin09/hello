@@ -1,0 +1,6 @@
+hello (1.0-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Gavin Lai <gavin@localhost>  Fri, 20 Jan 2017 02:14:06 -0500
