@@ -10,6 +10,6 @@ Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/hello.git
 
 Package: hello
 Architecture: any
-Depends: ${misc:Depends}
-Description:Print hello
- Homework for fun.
+Depends: ${misc:Depends}, ${shlibs:Depends}, libc-dev-bin
+Description: Print hello
+ A homework for fun.
